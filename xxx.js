@@ -1,1 +1,1 @@
-alasql.fn.cube = function(x) { return x*x*x; }
+eval(2+2+2+2+2)
